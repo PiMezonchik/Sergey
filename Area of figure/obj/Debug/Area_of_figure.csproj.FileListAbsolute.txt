@@ -1,0 +1,5 @@
+D:\Work\C#\Projects\Area of figure\Area of figure\bin\Debug\Area of figure.dll
+D:\Work\C#\Projects\Area of figure\Area of figure\bin\Debug\Area of figure.pdb
+D:\Work\C#\Projects\Area of figure\Area of figure\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\C#\Projects\Area of figure\Area of figure\obj\Debug\Area of figure.dll
+D:\Work\C#\Projects\Area of figure\Area of figure\obj\Debug\Area of figure.pdb
